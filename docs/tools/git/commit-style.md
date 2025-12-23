@@ -26,4 +26,4 @@
 3) Commit must not include many changes
 4) Good commit name helps avoid confusion
 
-[You can find more about the style of commits in my repos](https://github.com/BaggerFast)
+[You can find more about the style of commits in my repos](https://github.com/Antoni5555)

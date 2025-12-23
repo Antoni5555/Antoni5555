@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "BaggerFast's"
+  name: "Antoni5555's"
   text: "Personal page"
   tagline: Enhance your development quality
 features:
